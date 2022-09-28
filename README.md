@@ -1,5 +1,5 @@
 # AutoClicker dla minecrafta 1.8.X
-#Funckje:
+# Funckje:
 - Losowe CPS (1-100)
 - Menu kontrolowane strzałkami
 - Automatyczne zapisywanie ustawień
